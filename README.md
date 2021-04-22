@@ -38,6 +38,9 @@ Here are the schematic and the board:
 
 After finishing the Routing and verify the pcb. We made the board at **[JLC PCB](https://jlcpcb.com/)**  and we chose also the PCB Assembly service which was very good.
 
+<div align="center"><img src="image/placev2.gif" width="100%"></div>
+
+
 Here is the **[BOM needed](https://github.com/FAB619/619-J_Stepper/blob/main/files/BOM_final.xlsx)** for jlcpcb assembly service:
 
 | Designator | Quantity | value         | footprint                                                | LCSC Part                                                                                                                                                      |
