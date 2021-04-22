@@ -87,7 +87,15 @@ If you are using Slink for the first time, you may need to install the driver,Up
 
 <div align="center"><img src="image/2.PNG" width="100%"></div>
 
+Connect to your board, you will notice that the sftware recognize your board and shows the memory of the MCU
+
+<div align="center"><img src="image/3'.PNG" width="100%"></div>
+
+ Now you can porceed with loading the **Bin File**
+
 <div align="center"><img src="image/3.PNG" width="100%"></div>
+
+Upload to your board. 
 
 <div align="center"><img src="image/4.PNG" width="100%"></div>
 
