@@ -62,6 +62,23 @@ Here is the **[BOM needed](https://github.com/FAB619/619-J_Stepper/blob/main/fil
 
 # Getting started
 
+To program the board, It is necessary to use an **ST-link v2** Programmer (or a **J-Tag**) using also [ST-link Utility](https://www.st.com/en/development-tools/stsw-link004.html). You can find the **Bin File** we will use to flash the stm32 at this [link](https://github.com/FAB619/619-J_Stepper/tree/main/Bin%20File).
+
+If you don't have an St-link you can use any stm32 board as a programmer as shown in this [link](https://geekilyinteresting.wordpress.com/2014/05/04/using-your-stm32f4-discovery-board-as-a-programmer-and-debugger/)
+
+## Wiring
+
+Use an ST-link to connect to **619-J_Stepper**  
+
+<div align="center"><img src="image/stlink.jpg" width="100%"></div>
+
+<div align="center"><img src="image/swd.png" width="100%"></div>
+
+<div align="center"><img src="image/swd1.jpeg" width="100%"></div>
+
+
+
+
 
 
 # License
