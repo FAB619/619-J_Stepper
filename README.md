@@ -76,8 +76,20 @@ Use an ST-link to connect to **619-J_Stepper**
 
 <div align="center"><img src="image/swd1.jpeg" width="100%"></div>
 
+## Connect PC upload firmware
+Need to connect STlink's SWDIO,SWCLK,RESET,GND to 619-J_Stepper motherboard's SWDIO,SWCLK,RESET,GND.
 
+If you are using Slink for the first time, you may need to install the driver,Upload firmware by slink.
 
+<div align="center"><img src="image/peri.PNG" width="100%"></div>
+
+<div align="center"><img src="image/1.PNG" width="100%"></div>
+
+<div align="center"><img src="image/2.PNG" width="100%"></div>
+
+<div align="center"><img src="image/3.PNG" width="100%"></div>
+
+<div align="center"><img src="image/4.PNG" width="100%"></div>
 
 
 
