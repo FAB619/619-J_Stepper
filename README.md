@@ -95,10 +95,17 @@ Connect to your board, you will notice that the sftware recognize your board and
 
 <div align="center"><img src="image/3.PNG" width="100%"></div>
 
-Upload to your board. 
+Upload to your board.
 
 <div align="center"><img src="image/4.PNG" width="100%"></div>
 
+<div align="center"><img src="image/5.PNG" width="100%"></div>
+
+**Done**, Program uploaded successfully and an LED will turn on. This means a board programed.
+
+<div align="center"><img src="image/6.PNG" width="100%"></div>
+
+<div align="center"><img src="image/7.jpeg" width="100%"></div>
 
 
 # License
