@@ -107,6 +107,12 @@ Upload to your board.
 
 <div align="center"><img src="image/7.jpeg" width="100%"></div>
 
+# Video
+
+<div align="center"><img src="image/test vid.mp4" width="100%"></div>
+
+
+
 
 # License
 
