@@ -87,7 +87,7 @@ If you are using Slink for the first time, you may need to install the driver,Up
 
 <div align="center"><img src="image/2.PNG" width="100%"></div>
 
-Connect to your board, you will notice that the sftware recognize your board and shows the memory of the MCU
+Connect to your board, you will notice that the sftware recognize your board and shows the memory of the MCU, and the St-link will blink in two diffrent colors.
 
 <div align="center"><img src="image/3'.PNG" width="100%"></div>
 
