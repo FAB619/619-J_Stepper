@@ -99,7 +99,7 @@ Upload to your board.
 
 <div align="center"><img src="image/4.PNG" width="100%"></div>
 
-<div align="center"><img src="image/5.PNG" width="100%"></div>
+<div align="center"><img src="image/5.png" width="100%"></div>
 
 **Done**, Program uploaded successfully and an LED will turn on. This means a board programed.
 
